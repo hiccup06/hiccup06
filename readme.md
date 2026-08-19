@@ -1,5 +1,5 @@
 # About me
-Hi, im hiccup.
+hi, im hiccup.
 
 im currently 14 years old.
 
