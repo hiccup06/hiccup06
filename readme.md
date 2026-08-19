@@ -9,7 +9,7 @@ im an httyd addict.
 
 # Softwares
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com)
-[![Roblox Studio](https://i.ibb.co/Xr96fTWf/Roblox-Studio-2025-Logo-2.webp)](https://roblox.com/create)
+[![Roblox Studio](https://i.ibb.co/rK9DfQF2/Roblox-Studio-2025-Logo-3.webp)](https://roblox.com/create)
 
 # Languages
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
