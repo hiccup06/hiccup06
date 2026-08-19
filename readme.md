@@ -3,9 +3,11 @@ hi, im hiccup.
 
 im currently 14 years old.
 
-im a full-stack developer.
+im a full-stack engineer.
 
 im an httyd addict.
+
+i often archive stuff here, it may or not be public.
 
 # Softwares
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com)
