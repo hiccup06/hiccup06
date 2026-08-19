@@ -1,15 +1,18 @@
+# About me
+Hi, I'm Aqua Tsukimura.
 
-<h1 align="center">Hi , I'm Sanu</h1>
+I'm currently 14 years old.
 
-- Im a **Developer/Programmer**
+I'm a full-stack developer
 
-- Im a **Digital Artist**
+I'm an anime addict.
 
-- Im currently learning **C++**
+There's not much to say about me.
 
-- Im currently learning **next.js**
-
-<h3 align="left">Socials :</h3>
-<p align="left">
-<a href="https://www.youtube.com/@narpyCLIPS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="My YouTube :3" height="30" width="40" /></a>
-</p>
+# Languages and Tools
+[![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
+[![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/de-de/dotnet/csharp/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
+[![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
+[![Lua](https://skillicons.dev/icons?i=lua](https://skillicons.dev/icons?i=lua))](https://www.luau.org/)
+[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
