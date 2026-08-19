@@ -1,7 +1,6 @@
-# About me
 hi, im hiccup.
 
-im currently 14 years old.
+im 14 years old, at the moment.
 
 im a full-stack engineer.
 
