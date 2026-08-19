@@ -1,6 +1,6 @@
 hi, im hiccup.
 
-im 14 years old, at the moment.
+im 14 years old at the moment.
 
 im a full-stack engineer.
 
