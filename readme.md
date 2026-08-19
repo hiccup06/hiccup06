@@ -12,5 +12,4 @@ im an httyd addict.
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/de-de/dotnet/csharp/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
-[![LuaU]((https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMX_2kAZmYv0jAhQlw37EqN5c7DhNRImXpGggaQLDp9Q&s=10))](https://www.luau.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
