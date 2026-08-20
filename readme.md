@@ -4,7 +4,7 @@ im 14 years old at the moment.
 
 im a full-stack engineer.
 
-im an httyd addict.
+httyd superfan.
 
 i often archive stuff here, it may or not be public.
 
