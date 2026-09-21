@@ -19,6 +19,5 @@ I often archive stuff here, it may or not be public.
 [![C#](https://skillicons.dev/icons?i=cs)](https://learn.microsoft.com/de-de/dotnet/csharp/)
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
-[![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
