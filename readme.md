@@ -1,12 +1,12 @@
-hi, im hiccup.
+Hi, I'm Hiccup.
 
-im 14 years old at the moment.
+I'm 14 years old at the moment.
 
-im a full-stack engineer.
+I'm a full-stack engineer.
 
-httyd superfan.
+Httyd superfan.
 
-i often archive stuff here, it may or not be public.
+I often archive stuff here, it may or not be public.
 
 # Softwares
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com)
