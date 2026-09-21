@@ -10,6 +10,9 @@ I often archive stuff here, it may or not be public.
 
 # Softwares
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com)
+[![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
+[![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 
 # Languages
 [![C](https://skillicons.dev/icons?i=c)](https://www.iso.org/standard/74528.html)
@@ -17,3 +20,5 @@ I often archive stuff here, it may or not be public.
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
