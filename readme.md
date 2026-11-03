@@ -10,7 +10,6 @@ I often archive stuff here, it may or not be public.
 
 # Softwares
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com)
-[![Roblox Studio](https://skillicons.dev/icons?i=robloxstudio)](https://create.roblox.com)
 [![Visual Studio](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
 
