@@ -19,4 +19,4 @@ I often archive stuff here, it may or not be public.
 [![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org/)
 [![Lua](https://skillicons.dev/icons?i=lua)](https://www.lua.org/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![Rust](https://skillicons.dev/icons?i=rust)](https://rust-lang.org)
